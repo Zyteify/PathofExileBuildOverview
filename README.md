@@ -1,5 +1,7 @@
 # Path of Exile build overview in a graph database
-This project downloads the build overview of poe.ninja's data and creates a graph database handy for graphical relationships
+This project downloads the build overview of poe.ninja's build data and creates a graph database handy for graphical relationships
+
+https://poe.ninja/sanctum/builds
 
 ## Instructions
 
