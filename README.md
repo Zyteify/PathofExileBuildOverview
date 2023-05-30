@@ -10,7 +10,7 @@ open the import folder for your DBMS
 copy the newly created csv files into the import folder
 start the DBMS
 run the cypher commands in setup.cypher
-download the Graphxr extension at https://graphxr.kineviz.com
+download the Graphxr extension at graphxr.kineviz.com
 install the APOC plugin 
 create your visualisation
 
