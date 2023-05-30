@@ -2,17 +2,29 @@
 This project downloads the build overview of poe.ninja's data and creates a graph database handy for graphical relationships
 
 ##Instructions
+
 download python3 
+
 download pandas
+
 run jsonworker.py
+
 create a new DBMS in neo4j
+
 open the import folder for your DBMS
+
 copy the newly created csv files into the import folder
+
 start the DBMS
+
 run the cypher commands in setup.cypher
+
 download the Graphxr extension at graphxr.kineviz.com
+
 install the APOC plugin 
+
 create your visualisation
+
 
 #Example graphs
 top 10 characters of sanctum league - skill usage
